@@ -69,5 +69,25 @@ namespace Park_C_Project.Properties {
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Orange_Minimalist_Travel_App_Business_Logo__2_ {
+            get {
+                object obj = ResourceManager.GetObject("Orange Minimalist Travel App Business Logo (2)", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap overlay_logo {
+            get {
+                object obj = ResourceManager.GetObject("overlay logo", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
     }
 }
